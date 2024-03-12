@@ -1,0 +1,22 @@
+Dataset Description
+The columns in the dataset are as follows:
+
+    1.loan_id:Unique identifier of a loan
+
+    2.age:Age of the Applicant
+
+    3.Education:Applicant Education
+
+    4.proof_submitted:Type of proof submitted
+
+    5.loan_amount: Loan Amount Disbursed
+
+    6.asset_cost: The total asset value of the applicant
+
+    7.no_of_loans: No. of the loans taken by the applicant
+
+    8.no_of_curr_loans:No. of active loans held by the applicant
+
+    9.last_delinq_none:The loan defaulted in at least one of the past loans
+
+    10.loan_default (Target Variable):0/1 indicating if an applicant will default the loan or not
